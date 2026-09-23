@@ -6,7 +6,7 @@
 
 <h1>Hi, I'm SHIRISH D S 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&height=50&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;VLSI+%7C+DSP+%7C+IoT;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2575FC&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+%26+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+%7C+Python+%7C+DSA;Building+Intelligent+Software+Solutions;Always+Learning+Something+New"/>
 
 <br/>
 

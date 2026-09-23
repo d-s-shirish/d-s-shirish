@@ -1,3 +1,26 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c9ff&height=200&section=header&animation=fadeIn"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b520-4ceb35ef4d0e.gif" width="120"/>
+
+<h1>Hi, I'm SHIRISH D S 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=2575FC&center=true&vCenter=true&width=650&height=50&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+Enthusiast;VLSI+%7C+DSP+%7C+IoT;Always+Learning+Something+New"/>
+
+<br/>
+
+
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=2575fc&style=for-the-badge"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+
 # 💫 About Me:
 🔭 I’m currently working on AI/ML and real-world problem-solving projects<br>👯 I’m looking to collaborate on Innovative AI, ML & software projects<br>🤝 I’m looking for help with Research ideas and building scalable systems<br>🌱 I’m currently learning ML, DSA, System Design & Full-Stack Development<br>💬 Ask me about AI/ML, Python, projects & tech<br>⚡ Fun fact I love experimenting with new ideas and turning them into projects! 🚀
 
